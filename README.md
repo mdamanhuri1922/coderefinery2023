@@ -4,7 +4,7 @@
 Short summary
 </summary>
 
-these repository are provided by progammer which had a training. the training was held by CodeRefinery with supported by TUDelft Library Facilitator
+>These repository are provided by progammer which had a training. the training was held by CodeRefinery with supported by TUDelft Library Facilitator.
 </details>
 
 
