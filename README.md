@@ -1,4 +1,12 @@
 # coderefinery2023
+<details>
+<summary>
+Short summary
+</summary>
+
+these repository are provided by progammer which had a training. the training was held by CodeRefinery with supported by TUDelft Library Facilitator
+</details>
+
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
